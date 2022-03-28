@@ -1,0 +1,59 @@
+body {
+    background-color: #bdc4e4;
+    /*setting background color*/
+    font-family: 'Dancing Script', cursive;
+    /*using google fonts link*/
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Syne Mono', monospace;
+}
+
+p {
+    word-spacing: 5px;
+    /*spacing in the words*/
+}
+
+.ear_gif {
+    margin-right: 50px;
+    /*setting right margin*/
+}
+
+.header {
+    background-color: cadetblue;
+    /*setting background color*/
+    color: black;
+    /*setting font-color*/
+    margin-bottom: 20px;
+    /*setting bottom margin*/
+}
+
+#startbutton {
+    color: black;
+    /*setting text color*/
+    font-size: 20px;
+    /*setting font-size*/
+    width: 100%;
+    /*increasing width*/
+    letter-spacing: 4px;
+    /*spacing of letter in a word*/
+}
+
+.copy_right_footer {
+    bottom: 0;
+    /*no bottom margin*/
+    position: fixed;
+    /*position is fixed*/
+    background-color: black;
+    /*setting background color*/
+    color: lightcyan;
+    /*setting font color*/
+    text-align: center;
+    /*aligning text in center*/
+    width: 100%;
+    /*increasing width*/
+    text-shadow: 6px 5px 4px aliceblue;
+    /*making text shadow*/
+    line-height: 4;
+    /*increasing line-height*/
+    font-size: 16px;
+    /*setting font-size*/
+}
